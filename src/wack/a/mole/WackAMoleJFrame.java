@@ -178,8 +178,10 @@ Timer T = new Timer(600, new ActionListener()
         T.start();
         jLabel3.setText("");
         jButton1.setVisible(false);
-        jButton2.setVisible(false);
         jButton5.setVisible(false);
+        jButton2.setVisible(false);
+        
+        
         
         jButton3.setVisible(false);
         jButton4.setVisible(true);
